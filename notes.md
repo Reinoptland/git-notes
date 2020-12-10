@@ -39,3 +39,11 @@ In your terminal you use the following commands to link your local git to the gi
 1. Rename our branch to main: `git branch -M main`
 2. Push our branch to github: `git push -u origin main`
 3. Go to github, refresh and check if your files are there
+
+## Don't push to main
+
+Unless
+
+- Selfstudy
+- Working alone
+- Emergency
