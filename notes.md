@@ -63,3 +63,14 @@ note: Some code might dissapear or appear
 
 1. In the terminal use `git push origin <branch name you are on>`
 2. Go to github and verify that the new branch is there
+
+## Making a pullrequest
+
+1. Go to github
+2. Click the green button "Compare and Pullrequest"
+3. Other go to pullrequest and make a pullrequest manually
+4. Write a little summary for your colleague
+5. Click "Create Pullrequest"
+6. Ask your colleague to review -> they will merge the pullrequest into main
+7. Or they might give you feedback and you will need to push changes again
+8. You can check by switch to main on github and inspecting the files
