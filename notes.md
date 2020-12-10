@@ -74,3 +74,12 @@ note: Some code might dissapear or appear
 6. Ask your colleague to review -> they will merge the pullrequest into main
 7. Or they might give you feedback and you will need to push changes again
 8. You can check by switch to main on github and inspecting the files
+
+## Pulling the changes
+
+Your main branch on your machine is now behind
+You need to update it by pulling the changes from github
+
+1. Switch to the main branch
+2. Use `git pull origin main` to pull the changes
+3. Inspect the files and see that you are up to date
