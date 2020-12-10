@@ -58,3 +58,8 @@ Unless
 1. Switching back to main `git checkout main`
 
 note: Some code might dissapear or appear
+
+## Pushing your new branch
+
+1. In the terminal use `git push origin <branch name you are on>`
+2. Go to github and verify that the new branch is there
