@@ -19,3 +19,17 @@
 2. In the terminal use `git log` command
 3. You should see a list of commits, scroll or us up down keys to look at the list
 4. If you want to exit use `:q`
+
+## Adding a remote
+
+On github
+
+1. Go to github
+2. Click the green "New" button
+3. Give your repo a name
+4. Click create
+
+In your terminal you use the following commands to link your local git to the git repository on github:
+
+1. `git remote add origin <git url>`
+2. Check if the remote was added with: `git remote -v`
