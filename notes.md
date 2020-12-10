@@ -33,3 +33,9 @@ In your terminal you use the following commands to link your local git to the gi
 
 1. `git remote add origin <git url>`
 2. Check if the remote was added with: `git remote -v`
+
+## Pushing your master or main branch
+
+1. Rename our branch to main: `git branch -M main`
+2. Push our branch to github: `git push -u origin main`
+3. Go to github, refresh and check if your files are there
