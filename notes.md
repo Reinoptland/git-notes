@@ -47,3 +47,14 @@ Unless
 - Selfstudy
 - Working alone
 - Emergency
+
+## Creating a new branch
+
+1. Create a new branch and switch to it with `git checkout -b <brachname>`
+2. Feel free to add new commits to this branch
+
+## Switching between branches
+
+1. Switching back to main `git checkout main`
+
+note: Some code might dissapear or appear
